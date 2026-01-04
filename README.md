@@ -159,20 +159,20 @@ Bottom Navigation dengan:
 Folder **hasiluji/** berisi **14 file screenshot** sebagai bukti bahwa seluruh fitur aplikasi telah diuji dan berjalan dengan baik.
 
 ### Hasil Uji:
-**Home Screen** ![201](hasiluji/1.png) 
-**Activity A** ![200](hasiluji/2.png) 
-**Activity B** ![400](hasiluji/3.png) 
-**Activity C** ![401](hasiluji/4.png)
-**Activity D** ![201](hasiluji/5.png)
-**Back Stack – Step 1** ![200](hasiluji/6.png)
-**Back Stack – Step 2** ![400](hasiluji/7.png)
-**Back Stack – Step 3** ![401](hasiluji/8.png)
-**Hub – Dashboard** ![201](hasiluji/9.png)
-**Hub – Message** ![200](hasiluji/10.png)
-**Hub – Message Detail** ![400](hasiluji/11.png)
-**Hub – Message Detail** ![401](hasiluji/12.png)
-**Hub – Message Detail** ![201](hasiluji/13.png)
-**Hub – Profile** ![200](hasiluji/14.png)
+**Home Screen** ![Home Screen](hasiluji/1.png) 
+**Activity A** ![Activity A](hasiluji/2.png) 
+**Activity B** ![Activity B](hasiluji/3.png) 
+**Activity C** ![Activity C](hasiluji/4.png)
+**Activity D** ![Activity D](hasiluji/5.png)
+**Back Stack – Step 1** ![Back Stack – Step 1](hasiluji/6.png)
+**Back Stack – Step 2** ![Back Stack – Step 2](hasiluji/7.png)
+**Back Stack – Step 3** ![Back Stack – Step 3](hasiluji/8.png)
+**Hub – Dashboard** ![Hub – Dashboard](hasiluji/9.png)
+**Hub – Message** ![Hub – Message](hasiluji/10.png)
+**Hub – Message Detail** ![Hub – Message Detail](hasiluji/11.png)
+**Hub – Message Detail** ![Hub – Message Detail](hasiluji/12.png)
+**Hub – Message Detail** ![Hub – Message Detail](hasiluji/13.png)
+**Hub – Profile** ![Hub – Profile](hasiluji/14.png)
 
 ### Keterangan Hasil Uji:
 
